@@ -68,11 +68,3 @@
 8. TG推送教程 [点我](./TG_PUSH.md)
 
 9. 请注意，账号不是 [xiaomi账号]，而是 [xiaomi运动] 的账号。
-
-## 纪念一下往日的辉煌
-
-[![](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)
-
-## 历史Star数
-
-[![Stargazers over time](https://starchart.cc/577fkj/mimotion.svg)](https://starchart.cc/577fkj/mimotion)
